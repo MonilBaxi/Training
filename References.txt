@@ -1,0 +1,24 @@
+References
+
+Gamma		:	https://www.gamma.co.uk/products/horizon-contact/#tab-features
+
+Angular		: 	gsLab Angular Course
+			https://www.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C
+          		https://www.youtube.com/playlist?list=PL8p2I9GklV46PmAoG2LrIr7sG_VeibGhJ
+			https://angular.io/docs
+			https://github.com/MonilBaxi/Angular.git
+			
+
+NodeJs		:	gsLab NodeJs Course
+			https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8
+			https://nodejs.org/en/docs/
+			https://github.com/MonilBaxi/NodeJS.git
+
+TypeScript	:	gsLab TypeScript Course
+			https://youtube.com/playlist?list=PL8p2I9GklV46QXNPekHHKTO9aI82-LDwP
+			https://www.typescriptlang.org/docs/
+			https://github.com/MonilBaxi/TypeScript.git
+
+Project		: 	
+
+Linux 		:	https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
