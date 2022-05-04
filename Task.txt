@@ -1,0 +1,46 @@
+CON-6795:Update lock / unlock padlock icon
+Description
+New users struggle to identify the meaning of the padlock and knowing that they need to unlock it to start to build a wallboard. This has been fed back from the sales team and identified during UX user testing sessions.
+
+Requirement:
+When the padlock is locked (and wallboard cannot be edited) show the word ‘Edit’ next to the icon to identify that the user needs to click to edit the wallboard
+The user should be able to click the padlock, the word or the space in between to unlock the wallboard
+When the padlock is un-locked (and wallboard is being edited) show the word ‘Save’ next to the icon to identify that the user needs to click to save the wallboard
+The user should be able to click the padlock, the word or the space in between to lock the wallboard
+
+
+CON-5492:Make wallboard options clickable not just the icons
+Details:
+When adding a wallboard widget you have to click on the icon to get through to the menu to add the widget. I’d expect for the icon and word to be clickable
+
+Requirement:
+Make whole button clickable with hover state rather than just the icon on the button
+Rename the text for “Queues” option to “Call Queue”
+
+CON-7100:When i scroll down the report in the UI i'd like the column headers to be persistent
+Description
+In Contact i can build and run a report which can be viewed in the UI.
+I am able to scroll the report in the UI to see each row.
+When i scroll down the UI I cannot tell which column is which as i can no longer see the header.
+
+Requirement:
+AS A user in contact who can build/view reports in the UI
+WHEN I run a report and scroll down the UI
+I WANT to be able to still read the headers of the columns
+SO THAT i know what the date in the row is showing me
+
+CON-6965:Collective story to aggregate stories/bugs for broken help links
+Description
+We have various tickets raised for broken help links and wanted to collate these so they can be picked up together. The table below has all information from the tickets along with the original links. 
+The original tickets have been closed as this new bug duplicates them all.
+
+CON-7363:Type dropdown on New Role page needs to be mandatory
+Description
+The Type dropdown on the following page needs an asterisk * to indicate that it’s mandatory and validation to advise the use they need to complete this drop down.
+
+CON-7471:Importing workitem validator does not strip whitespace
+Description
+When you import a workitem csv, I kept getting an error about the date field not being in the right format.
+The format asked for was YYYYMMDD, so I was 100% sure that 20220407 matched that exactly.
+And it would of if I removed all the spaces between the delimiters. But when you write a csv, you add spaces to make it readable. 
+The validate should always be striping whitespace on those type of fields.
