@@ -44,3 +44,45 @@ When you import a workitem csv, I kept getting an error about the date field not
 The format asked for was YYYYMMDD, so I was 100% sure that 20220407 matched that exactly.
 And it would of if I removed all the spaces between the delimiters. But when you write a csv, you add spaces to make it readable. 
 The validate should always be striping whitespace on those type of fields.
+
+CONTACTCENTRE
+Make it easier for your customers to engage with your organisation. 
+
+Horizon Contact is the integrated business communication and customer contact centre solution that simplifies customer interaction.
+
+Perfect for organisations who want to make it easier for customers to engage with them and unlike most Contact Centre solutions, Horizon Contact provides an easy to use, self-service feature set, for small to medium businesses, at a price point they can afford.
+
+ContactCentre is a cloud-based contact centre solution that is designed specifically to work in conjunction with Horizon and Collaborate.
+Agent Interface
+
+Agents can view all the queues that they have been given access to view. Agents can take calls via a Horizon handset or via a softphone using the Horizon Contact portal.
+
+Supervisor Interface
+
+The Supervisor user has full agent functionality but can manage all agent users. Within the Horizon Contact Portal, the Supervisor’s main screen shows live data for both the queues
+and the agents that they manage.
+
+Admin Interface
+
+Horizon Contact is managed using its own web interface, which provides information and management control to authenticated operations users.
+
+The Administrator Portal part of the interface allows users who are logged in at the Administrator level to customise their Contact Centre features and functionality.
+
+Wallboard
+
+When an agent has classified an interaction, the classifications are logged and analysed by the Contact Centre for display via the wallboard and for inclusion in regular reports.
+
+With Horizon Contact, there are three types of contact centre user licences:
+
+Administrator – Administrator licences can be applied to any Horizon user. They can manage back end functionality, such as queues and interaction flow design, but cannot receive calls or manage agents.
+
+Agent – Agents can view all the queues that they have been given access to view. They can also set their status and indicate if they are available to handle new inbound requests.
+
+Supervisor – The Supervisor user has full Agent functionality but can also manage all agent users.
+
+Contact provides a consistent quality Omnichannel solution.
+
+The interface gives agents a master view of customer communication across all channels, so they can ensure a seamless experience.
+
+Contact centre supports inbound and outbound voice channels, web chat and email, enabling a highly personalised customer experience.
+
